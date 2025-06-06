@@ -1,1 +1,35 @@
 # Lista-de-Filmes-
+<section class="chamada">
+    <div class="chamada-texto">
+        <h1>NOSFERATU</h1>
+        <p>#vampiro</p>
+    </div>
+
+    <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/moIrYMjS0nI"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</section>
+
+<section class="categoria">
+    <h2>Filmes e séries</h2>
+    <div class="categoria-videos">
+        <a href="https://www.youtube.com/watch?v=FLturMvpwPA">
+            <img src="https://img.youtube.com/vi/FLturMvpwPA/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=QcTmesn3Ybo">
+            <img src="https://img.youtube.com/vi/QcTmesn3Ybo/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=Z0Xmb6lBK6Q">
+            <img src="https://img.youtube.com/vi/Z0Xmb6lBK6Q/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=yPD6aNjtZto">
+            <img src="https://img.youtube.com/vi/yPD6aNjtZto/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=FcgKJ76J03U">
+            <img src="https://img.youtube.com/vi/FcgKJ76J03U/maxresdefault.jpg" />
+        </a>
+    </div>
+</section>
